@@ -1,0 +1,16 @@
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.vcxproj.AssemblyReference.cache
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.Form1.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.vcxproj.GenerateResource.cache
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmClientes.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmFacturas.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmMedicamentos.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmMedicos.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmPacientes.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmVisitas.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmClientesEdit.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmMedicosEdit.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmMedicamentosEdit.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmPacientesEdit.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmVisitasEdit.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.frmFacturasEdit.resources
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Debug\Veterinaria.Login.resources

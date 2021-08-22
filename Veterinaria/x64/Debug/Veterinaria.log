@@ -1,0 +1,52 @@
+﻿  Login.cpp
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\Login.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmPacientes.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmPacientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmPacientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmPacientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicosEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicamentos.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicamentosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicamentosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmVisitas.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmVisitasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmVisitasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmFacturasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmFacturasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  frmClientes.cpp
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  frmClientesEdit.cpp
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  main.cpp
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\main.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\Login.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmClientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmPacientes.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmPacientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmPacientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmPacientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicosEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicamentos.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicamentosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmMedicamentosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmVisitas.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmVisitasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmVisitasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmFacturasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\frmFacturasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+  frmClientes.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Veterinaria.vcxproj -> C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\x64\Debug\Veterinaria.exe

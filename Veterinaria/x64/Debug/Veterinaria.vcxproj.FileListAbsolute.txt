@@ -1,0 +1,16 @@
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.vcxproj.AssemblyReference.cache
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.Form1.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmClientes.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmClientesEdit.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmFacturas.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmFacturasEdit.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmMedicamentos.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmMedicamentosEdit.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmMedicos.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmMedicosEdit.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmPacientes.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmPacientesEdit.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmVisitas.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.frmVisitasEdit.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.Login.resources
+C:\Users\Jaivalladares\Desktop\Veterinaria GUI 4\Veterinaria\x64\Debug\Veterinaria.vcxproj.GenerateResource.cache

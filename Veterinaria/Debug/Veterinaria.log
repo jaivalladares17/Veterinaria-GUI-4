@@ -1,0 +1,61 @@
+﻿  Login.cpp
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Login.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientes.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicosEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentos.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitas.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmFacturasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmFacturasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  frmClientes.cpp
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  frmMedicamentos.cpp
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentos.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  frmPacientes.cpp
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientes.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  frmVisitas.cpp
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitas.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  main.cpp
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\main.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\Login.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmClientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientes.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmPacientesEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicosEdit.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentos.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentosEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmMedicamentosEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitas.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmVisitasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmFacturasEdit.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\FranGomez\Documents\Veterinaria\Veterinaria\frmFacturasEdit.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+  frmClientes.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Veterinaria.vcxproj -> C:\Users\FranGomez\Documents\Veterinaria\Debug\Veterinaria.exe
